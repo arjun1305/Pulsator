@@ -1,0 +1,16 @@
+PODS:
+  - Pulsator (0.6.0)
+
+DEPENDENCIES:
+  - Pulsator
+
+SPEC REPOS:
+  trunk:
+    - Pulsator
+
+SPEC CHECKSUMS:
+  Pulsator: eb5a9f9be4bdcbd19903984c65deca6aabe50a17
+
+PODFILE CHECKSUM: 62ce8f15d631124c930abfb6ca469af62e8d8bf4
+
+COCOAPODS: 1.16.2

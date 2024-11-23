@@ -1,0 +1,6 @@
+framework module Pods_Pulsing_Animation {
+  umbrella header "Pods-Pulsing Animation-umbrella.h"
+
+  export *
+  module * { export * }
+}
